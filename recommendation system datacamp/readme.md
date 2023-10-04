@@ -15,18 +15,6 @@ The online world today is driven by **personalized experiences**, be it Netflix'
 
 The Python skills I've honed here can now be applied to create recommendation systems across any domain. Exciting times ahead!
 
-## Repository Overview
-
-- `data/`: This is where I stored the datasets I worked with.
-- `notebooks/`: Jupyter notebooks that chronicle my step-by-step progress.
-- `scripts/`: Python scripts I wrote for the different parts of the recommendation system.
-- `README.md`: Well, you're reading it!
-
-## How to Navigate My Work
-
-1. Feel free to clone or download this repository.
-2. Begin by exploring the `notebooks/` directory. I've started with basic concepts and gradually moved to complex implementations.
-3. The `scripts/` directory will give you an insight into the Python code I've written.
 
 ## Shoutout
 
